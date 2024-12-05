@@ -1,0 +1,27 @@
+#!/bin/bash
+
+date "+%H:%M:%S"
+
+../sd ../Samples/infinitesites-55.dat 2.0 1000 100000 0 0.0 > ../Results/likelihood-variable-results-55-sd.txt
+../sd ../Samples/infinitesites-55.dat 3.0 1000 100000 0 0.0 >> ../Results/likelihood-variable-results-55-sd.txt
+../sd ../Samples/infinitesites-55.dat 4.0 1000 100000 0 0.0 >> ../Results/likelihood-variable-results-55-sd.txt
+../sd ../Samples/infinitesites-55.dat 5.0 1000 100000 0 0.0 >> ../Results/likelihood-variable-results-55-sd.txt
+../sd ../Samples/infinitesites-55.dat 6.0 1000 100000 0 0.0 >> ../Results/likelihood-variable-results-55-sd.txt
+../sd ../Samples/infinitesites-55.dat 7.0 1000 100000 0 0.0 >> ../Results/likelihood-variable-results-55-sd.txt
+../sd ../Samples/infinitesites-55.dat 8.0 1000 100000 0 0.0 >> ../Results/likelihood-variable-results-55-sd.txt
+../sd ../Samples/infinitesites-55.dat 9.0 1000 100000 0 0.0 >> ../Results/likelihood-variable-results-55-sd.txt
+../sd ../Samples/infinitesites-55.dat 10.0 1000 100000 0 0.0 >> ../Results/likelihood-variable-results-55-sd.txt
+
+date "+%H:%M:%S"
+
+../sd ../Samples/infinitesites-550.dat 2.0 2000 200000 0 0.0 > ../Results/likelihood-variable-results-550-sd.txt
+../sd ../Samples/infinitesites-550.dat 3.0 2000 200000 0 0.0 >> ../Results/likelihood-variable-results-550-sd.txt
+../sd ../Samples/infinitesites-550.dat 4.0 2000 200000 0 0.0 >> ../Results/likelihood-variable-results-550-sd.txt
+../sd ../Samples/infinitesites-550.dat 5.0 2000 200000 0 0.0 >> ../Results/likelihood-variable-results-550-sd.txt
+../sd ../Samples/infinitesites-550.dat 6.0 2000 200000 0 0.0 >> ../Results/likelihood-variable-results-550-sd.txt
+../sd ../Samples/infinitesites-550.dat 7.0 2000 200000 0 0.0 >> ../Results/likelihood-variable-results-550-sd.txt
+../sd ../Samples/infinitesites-550.dat 8.0 2000 200000 0 0.0 >> ../Results/likelihood-variable-results-550-sd.txt
+../sd ../Samples/infinitesites-550.dat 9.0 2000 200000 0 0.0 >> ../Results/likelihood-variable-results-550-sd.txt
+../sd ../Samples/infinitesites-550.dat 10.0 2000 200000 0 0.0 >> ../Results/likelihood-variable-results-550-sd.txt
+
+date "+%H:%M:%S"
